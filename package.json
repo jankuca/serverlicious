@@ -1,0 +1,7 @@
+{
+  "name": "serverlicious",
+  "version": "0.0.0",
+  "dependencies": {
+    "nstore": "*"
+  }
+}
